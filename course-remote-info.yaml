@@ -1,0 +1,74 @@
+hyperskill_project:
+  id: 399
+  ide_files: https://cogniterra.org/media/attachments/lesson/33493/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Mon, 27 Nov 2023 17:41:47 UTC"
+stages:
+  - id: 2358
+    step: 38013
+    is_completed: true
+  - id: 2359
+    step: 38014
+    is_completed: true
+  - id: 2360
+    step: 38015
+    is_completed: true
+  - id: 2361
+    step: 38016
+    is_completed: true
+  - id: 2362
+    step: 38017
+    is_completed: false
+topics:
+  0:
+    - title: Introduction to Go
+      theory_id: 17073
+    - title: Comments
+      theory_id: 16689
+    - title: Variables and constants
+      theory_id: 14468
+    - title: GoLand
+      theory_id: 19072
+    - title: Input/Output
+      theory_id: 14527
+  1:
+    - title: Control statements
+      theory_id: 16235
+    - title: Primitive types
+      theory_id: 16871
+    - title: Arithmetic operations
+      theory_id: 16679
+    - title: Strings
+      theory_id: 15412
+    - title: String formatting
+      theory_id: 16860
+    - title: Arithmetic expressions in programming
+      theory_id: 17289
+  2:
+    - title: Pointers
+      theory_id: 15463
+    - title: Loops
+      theory_id: 14707
+    - title: Functions
+      theory_id: 16388
+    - title: Arrays
+      theory_id: 14871
+    - title: Slices
+      theory_id: 15656
+    - title: Working with slices
+      theory_id: 15935
+  3:
+    - title: Functional decomposition
+      theory_id: 17506
+    - title: Code organization. Design principles
+      theory_id: 8956
+    - title: Single Responsibility Principle
+      theory_id: 8963
+  4:
+    - title: Packages
+      theory_id: 15906
+    - title: Type conversion and overflow
+      theory_id: 18710
+    - title: Math package
+      theory_id: 18431
